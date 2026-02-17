@@ -42,3 +42,7 @@ Once the dashboard gen has finished running, press the 3 buttons next to the cel
 
 <img width="342" height="196" alt="image" src="https://github.com/user-attachments/assets/fa904326-7c19-4f01-b243-5f162e7e7a2b" />
 
+Output with no customization will look like this:
+<img width="1083" height="462" alt="image" src="https://github.com/user-attachments/assets/b53318c1-2a46-40f5-b12d-5a815fa1cb54" />
+
+
