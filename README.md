@@ -36,5 +36,6 @@ To use this, clone the repo locally. It's easiest to use in a Jupyter Notebook s
 ```from dashboard_generator import dashboard_gen```
 ```dashboard_gen(6,4)```
 One the dashboard gen has finished running, press the 3 buttons next to the cell output and click 'copy cell content'
+
 <img width="342" height="196" alt="image" src="https://github.com/user-attachments/assets/fa904326-7c19-4f01-b243-5f162e7e7a2b" />
 
