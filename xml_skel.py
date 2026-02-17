@@ -8,7 +8,7 @@ def xml_skeleton(num_rows, num_panels):
         row_xml_start = f'<row id="row{i}">' 
         row_xml_end = f'</row>'
         if i <= max_buff:
-            buffer_row = f'<row>\n <panel id="bufferRow{i}">\n  <html>\n   <style>\n    #bufferRow{i} {{\n     height: 1vw !important;\n     width: 0vw !important;\n     background-color: #171D21 !important\n     color: #171D21 !important;\n     }}\n    </style>\n   </html>\n  </panel>\n</row>'
+            buffer_row = f'<row id="bufferRow{i}">\n <panel>\n  <html>\n   <style>\n    #bufferRow{i} {{\n     height: 1vw !important;\n     width: 0vw !important;\n     background-color: #171D21 !important;\n     color: #171D21 !important;\n     }}\n    </style>\n   </html>\n  </panel>\n</row>'
         else:
             buffer_row = ""    
         print(tab_builder)
