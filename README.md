@@ -2,6 +2,8 @@
 
 Quickly spin up a dashboard with this generator. This will set alternating row color and add "tabs" at the start of each row. Indicators for trends can be overwritten and tool tips can be included.
 
+**NOTE:** This is for dark mode. Buffers and other CSS may not look correct with light mode.
+
 **Arguments:**
 - **num_rows (Required):**
   - Default: None
